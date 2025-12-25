@@ -55,6 +55,12 @@
   color: var(--text-secondary);
 }
 
+/*
+.intro button {
+  width: 300px;
+}
+*/
+
 .intro a {
   font-weight: 500;
   color: var(--text-primary);
